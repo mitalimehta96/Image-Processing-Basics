@@ -1,4 +1,4 @@
-%%To perform basic matlab functions on an image like read, write, resize, %%size
+%%To perform basic matlab functions on an image like read, write, resize, size
 
 myImage=imread('your_image_path');
 imshow(myImage)
