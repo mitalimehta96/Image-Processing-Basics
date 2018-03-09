@@ -4,7 +4,7 @@
  
 clc;
 clear all;
-myImage=imread('mitali.jpg');
+myImage=imread('your_image_path');
 imshow(myImage)
 myGrayImage=rgb2gray(myImage);
 imshow(myGrayImage);
